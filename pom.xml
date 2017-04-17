@@ -164,7 +164,7 @@
         </dependency>
 </dependencies>
 <build>
-    <finalName>maven_ssm_pk_test</finalName>
+    <finalName>maven_ssm_wqp_test</finalName>
     <plugins>
          <plugin>
          <groupId>org.apache.maven.plugins</groupId>
